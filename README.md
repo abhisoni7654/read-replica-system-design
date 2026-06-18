@@ -134,14 +134,3 @@ This project was built to understand:
 * Fault tolerance using fallback reads
 * High-level database architecture used in production systems
 
-## Future Improvements
-
-* Multiple read replicas
-* Load balancing between replicas
-* Docker Compose setup
-* Health checks
-* Connection pooling configuration
-* Monitoring and logging
-* Automatic failover
-* Caching with Redis
-* Authentication and authorization
